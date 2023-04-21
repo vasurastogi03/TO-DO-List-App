@@ -1,5 +1,5 @@
 # TO-DO-List-App
-A basic Todo list App which uses CRUD operations created  using MERN stack. The data is sent to a Mongo database.
+A basic Todo list App which uses CRUD operations created  using MERN stack. The data is stored in a Mongo database.
 
 Its operations are - 
 
